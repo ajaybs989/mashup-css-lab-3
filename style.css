@@ -1,0 +1,11 @@
+.cir{
+    position:absolute;
+    left: 40%;
+    top: 40%;
+    background-color: red;
+    border-radius: 50%;
+    height:200px;
+    width: 200px;
+      
+
+}
